@@ -9,6 +9,8 @@ b. How many businesses take place in each state, In each city? What kind of busi
 
 c. What time do people usually write reviews?
 
+Here are the contents of each file:
+
 ### split_large_json.py
 This file contains a function 'split_json' that split large json file into smaller size, hence allow json to be uploaded to DBFS.
 
